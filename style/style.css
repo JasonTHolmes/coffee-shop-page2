@@ -14,7 +14,7 @@ body{
 #background{
     text-align: center;
     border: solid 1px black;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
 }
 h1{
