@@ -1,0 +1,1 @@
+Simple coffee shop landing page.
